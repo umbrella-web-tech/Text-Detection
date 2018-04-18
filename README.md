@@ -23,9 +23,6 @@ To implement all of the features above you can use the following components:
 *  Clone this repository;
 *  Run .xcworkspace file;
 
-
-```
-
 ### Dependencies
 
 We make heavy use of the following projects, and so it can be helpful to be familiar with them:
