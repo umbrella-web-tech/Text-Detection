@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetectionViewController.performImageRecognition(_:):DetectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in MainViewController.detectTextHandler(request:error:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rg.characterBoxes">
+            </PersistentString>
+            <PersistentString
+               value = "rg.accessibilityLanguage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
