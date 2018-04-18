@@ -3,7 +3,7 @@
 Text Detection is a small app for combining Apple native ML framework and 3rd party solution for a capturing photo and a recognition processes. 
 
 <p align="center">
-<img src=“https://images.netpeak.net/blog/kogda-dobavil-kluc-i-bystro-polucil-tranzakciu-po-nemu.gif”>
+<img src=“docs/vision.gif”>
 </p>
 
 ### Main features
