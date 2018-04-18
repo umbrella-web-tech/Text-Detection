@@ -19,7 +19,7 @@ Bring an idea and get an app. Bring a problem and get a solution. Contact us via
 
 To implement all of the features above you can use the following components:
 
-*  Download the <a href=“https://developer.apple.com/xcode/download”>Xcode9 release</a>;
+*  Download the [Xcode9 release] (https://developer.apple.com/xcode/download);
 *  Clone this repository;
 *  Run .xcworkspace file;
 
