@@ -35,7 +35,7 @@ We make heavy use of the following projects, and so it can be helpful to be fami
 
 *  [TesseractOCRiOS](https://github.com/gali8/Tesseract-OCR-iOS);
 
-Notices for 3rd party libraries in this repository are contained in License.
+Notices for 3rd party libraries in this repository are contained in [License](https://github.com/umbrella-web-tech/Text-Detection/blob/master/LICENSE).
 
 ### License
 
