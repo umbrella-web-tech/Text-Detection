@@ -33,7 +33,7 @@ We make heavy use of the following projects, and so it can be helpful to be fami
 
 <b>3rd party</b>
 
-*  <a href=“https://github.com/gali8/Tesseract-OCR-iOS”>TesseractOCRiOS</a>;
+*  [TesseractOCRiOS](https://github.com/gali8/Tesseract-OCR-iOS);
 
 Notices for 3rd party libraries in this repository are contained in License.
 
