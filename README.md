@@ -11,7 +11,7 @@ Text Detection is a small app for combining Apple native ML framework and 3rd pa
 
 ### Who we are
 Umbrella Web develops web and mobile apps mostly in AdTech, MarTech, Social Media, Big Data, AI, Blockchain and IOT. 
-Bring an idea and get an app. Bring a problem and get a solution. Contact us via hello@umbrella-web.com.
+Bring an idea and get an app. Bring a problem and get a solution. [Contact us](https://umbrella-web.com/contact).
 
 ### How to use
 
