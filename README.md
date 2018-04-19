@@ -5,6 +5,7 @@ Text Detection is a small app for combining Apple native ML framework and 3rd pa
 <p align="center">
 ![ScreenShot](https://media.giphy.com/media/Zvaw3usminnrWrzfiH/giphy.gif)
 </p>
+![ScreenShot](https://raw.github.com/alchimya/iOS-LazyTableView/master/screenshots/iOS-LazyTableView.gif)
 
 ### Main features
 
